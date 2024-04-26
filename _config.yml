@@ -1,4 +1,4 @@
 title: Bexlog
 description: "Bexli's blog"
 author: bexli
-theme: minima
+remote_theme: dark-poole
